@@ -12,8 +12,6 @@ pkasila.hi()
 // Prints out: Hey! Nice to see you there 😊
 ```
 
-- 📚 Studying in Lyceum BSU
-- 👯 I’m looking to collaborate on *shhh.. 🤫 if you would like to, contact me*
 - 💬 There are some [personal projects](https://github.com/pkasila?tab=repositories) you may ask me about
 - 📫 How to reach me:
   - ✉️ Mail: [pavel.kasila@gmail.com](mailto:pavel.kasila@gmail.com)
