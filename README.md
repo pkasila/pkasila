@@ -1,5 +1,5 @@
 ```kotlin
-val pkasila = Person(
+var pkasila = Person(
   name = "Pavel Kasila",
   age = 18,
   location = Coordinate2D(53.901577, 27.561010),
