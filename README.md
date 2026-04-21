@@ -17,8 +17,3 @@ pkasila.hi()
   - ✉️ Mail: [pavel.kasila@gmail.com](mailto:pavel.kasila@gmail.com)
   - Telegram: [@pavelkasila](https://t.me/pavelkasila)
 - 😄 Pronouns: he/him/his
-
-## Donate
-
-- Bitcoin: `bc1qnfdswn3ttggkeqdurzmf8kydystynwr7892ym0`
-- Monero: `8AGCLDTvGtjVdKz1nNuN7UiReCsvjEK3BdhQREkyt5RQ9B9rE6fhgcv4LfSEHSn9ayiKdt5cue892ATGmv7Ljva2VpVz2Lp`
